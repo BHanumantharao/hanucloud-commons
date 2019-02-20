@@ -17,7 +17,7 @@ import javax.persistence.Table;
 @NoArgsConstructor
 @ToString
 @Entity
-@Table(name = "payment")
+@Table(name = "PAYMENT")
 public class Payment {
 
     @Id
